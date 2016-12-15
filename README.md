@@ -20,3 +20,7 @@ As Dr.Suess always said:
 > That is truer than true,
 >  There is no one alive who is youer than you.
 
+
+**bold**
+***italics and slightly bold***
+*regular italics*
