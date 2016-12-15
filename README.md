@@ -1,4 +1,4 @@
 # hello-world
-practicing making a repository.
+**practicing making a repository.**
 
-I am learning how Github works. Yay!
+I am *learning* how [Github works] (www.github.com). Yay!
