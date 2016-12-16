@@ -13,7 +13,8 @@ I am *learning* how [Github] (www.github.com) works. _**Yay!**_
   * not sure what to put here, but this should be a sublist to the organized list above.
   * Fun.
 
-![pupper] (http://cdn1-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-2.jpg)
+(http://www.google.com/)
+
 
 As Dr.Suess always said:
 >Today you are you,
@@ -32,3 +33,4 @@ column one | column two
 
 ~~crossed out~~
 :expressionless:
+![pupper] (http://cdn1-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-2.jpg)
