@@ -29,3 +29,6 @@ this is a table | figuring this out
 ----------------|-------------------
 cell one | cell two
 column one | column two
+
+~~crossed out~~
+:expressionless:
