@@ -7,9 +7,9 @@ I am *learning* how [Github] (www.github.com) works. _**Yay!**_
 * Hello
 * Is this working
 
-1. This is suprisingly easy
-2. I just need to do this for a while
-3. I am picking up on this so fast.
+1. hey
+2. yup
+3. listttt
   * not sure what to put here, but this should be a sublist to the organized list above.
   * Fun.
 
@@ -24,3 +24,8 @@ As Dr.Suess always said:
 **bold**
 ***italics and slightly bold***
 *regular italics*
+
+this is a table | figuring this out
+----------------|-------------------
+cell one | cell two
+column one | column two
