@@ -1,0 +1,220 @@
+    1  ls
+    2  uptime
+    3  exit
+    4  mdir
+    5  mkdir myapp
+    6  cd myapp
+    7  npm init
+    8  npm intit
+    9  init
+   10  entry point: (index.js)
+   11  mkdir myapp
+   12  cd myapp
+   13  npm init
+   14  init
+   15  npm install express --save
+   16  var express = require('express'0
+   17  open dir
+   18  l1.0.0:amd64 (1.0.1f-1ubuntu2.21) ...
+   19  root@LAPTOP-FT5R6KHT:~/myapp# ssh -x -l melanie 45.79.193.23
+   20  melanie@45.79.193.23's password:
+   21  Last login: Tue Jan 10 08:47:04 2017 from 75.188.20.127
+   22  [melanie@li1292-23 ~]$ mkdir myapp
+   23  mkdir: cannot create directory myapp: File exists
+   24  [melanie@li1292-23 ~]$ cd myapp
+   25  [melanie@li1292-23 myapp]$ npm init
+   26  -bash: npm: command not found
+   27  [melanie@li1292-23 myapp]$ npm init
+   28  -bash: npm: command not found
+   29  [melanie@li1292-23 myapp]$ init
+   30  init: required argument missing.
+   31  [melanie@li1292-23 myapp]$ npm install express --save
+   32  -bash: npm: command not foundl1.0.0:amd64 (1.0.1f-1ubuntu2.21) ...
+   33  root@LAPTOP-FT5R6KHT:~/myapp# ssh -x -l melanie 45.79.193.23
+   34  melanie@45.79.193.23's password:
+   35  Last login: Tue Jan 10 08:47:04 2017 from 75.188.20.127
+   36  [melanie@li1292-23 ~]$ mkdir myapp
+   37  mkdir: cannot create directory myapp: File exists
+   38  [melanie@li1292-23 ~]$ cd myapp
+   39  [melanie@li1292-23 myapp]$ npm init
+   40  -bash: npm: command not found
+   41  [melanie@li1292-23 myapp]$ npm init
+   42  -bash: npm: command not found
+   43  [melanie@li1292-23 myapp]$ init
+   44  init: required argument missing.
+   45  [melanie@li1292-23 myapp]$ npm install express --save
+   46  -bash: npm: command not foundl1.0.0:amd64 (1.0.1f-1ubuntu2.21) ...
+   47  root@LAPTOP-FT5R6KHT:~/myapp# ssh -x -l melanie 45.79.193.23
+   48  melanie@45.79.193.23's password:
+   49  Last login: Tue Jan 10 08:47:04 2017 from 75.188.20.127
+   50  [melanie@li1292-23 ~]$ mkdir myapp
+   51  mkdir: cannot create directory myapp: File exists
+   52  [melanie@li1292-23 ~]$ cd myapp
+   53  [melanie@li1292-23 myapp]$ npm init
+   54  -bash: npm: command not found
+   55  [melanie@li1292-23 myapp]$ npm init
+   56  -bash: npm: command not found
+   57  [melanie@li1292-23 myapp]$ init
+   58  init: required argument missing.
+   59  [melanie@li1292-23 myapp]$ npm install express --save
+   60  -bash: npm: command not foundl1.0.0:amd64 (1.0.1f-1ubuntu2.21) ...
+   61  root@LAPTOP-FT5R6KHT:~/myapp# ssh -x -l melanie 45.79.193.23
+   62  melanie@45.79.193.23's password:
+   63  Last login: Tue Jan 10 08:47:04 2017 from 75.188.20.127
+   64  [melanie@li1292-23 ~]$ mkdir myapp
+   65  mkdir: cannot create directory myapp: File exists
+   66  [melanie@li1292-23 ~]$ cd myapp
+   67  [melanie@li1292-23 myapp]$ npm init
+   68  -bash: npm: command not found
+   69  [melanie@li1292-23 myapp]$ npm init
+   70  -bash: npm: command not found
+   71  [melanie@li1292-23 myapp]$ init
+   72  init: required argument missing.
+   73  [melanie@li1292-23 myapp]$ npm install express --save
+   74  -bash: npm: command not foundl1.0.0:amd64 (1.0.1f-1ubuntu2.21) ...
+   75  root@LAPTOP-FT5R6KHT:~/myapp# ssh -x -l melanie 45.79.193.23
+   76  melanie@45.79.193.23's password:
+   77  Last login: Tue Jan 10 08:47:04 2017 from 75.188.20.127
+   78  [melanie@li1292-23 ~]$ mkdir myapp
+   79  mkdir: cannot create directory myapp: File exists
+   80  [melanie@li1292-23 ~]$ cd myapp
+   81  [melanie@li1292-23 myapp]$ npm init
+   82  -bash: npm: command not found
+   83  [melanie@li1292-23 myapp]$ npm init
+   84  -bash: npm: command not found
+   85  [melanie@li1292-23 myapp]$ init
+   86  init: required argument missing.
+   87  [melanie@li1292-23 myapp]$ npm install express --save
+   88  -bash: npm: command not foundl1.0.0:amd64 (1.0.1f-1ubuntu2.21) ...
+   89  root@LAPTOP-FT5R6KHT:~/myapp# ssh -x -l melanie 45.79.193.23
+   90  melanie@45.79.193.23's password:
+   91  Last login: Tue Jan 10 08:47:04 2017 from 75.188.20.127
+   92  [melanie@li1292-23 ~]$ mkdir myapp
+   93  mkdir: cannot create directory myapp: File exists
+   94  [melanie@li1292-23 ~]$ cd myapp
+   95  [melanie@li1292-23 myapp]$ npm init
+   96  -bash: npm: command not found
+   97  [melanie@li1292-23 myapp]$ npm init
+   98  -bash: npm: command not found
+   99  [melanie@li1292-23 myapp]$ init
+  100  init: required argument missing.
+  101  [melanie@li1292-23 myapp]$ npm install express --save
+  102  -bash: npm: command not foundl1.0.0:amd64 (1.0.1f-1ubuntu2.21) ...
+  103  root@LAPTOP-FT5R6KHT:~/myapp# ssh -x -l melanie 45.79.193.23
+  104  melanie@45.79.193.23's password:
+  105  Last login: Tue Jan 10 08:47:04 2017 from 75.188.20.127
+  106  [melanie@li1292-23 ~]$ mkdir myapp
+  107  mkdir: cannot create directory myapp: File exists
+  108  [melanie@li1292-23 ~]$ cd myapp
+  109  [melanie@li1292-23 myapp]$ npm init
+  110  -bash: npm: command not found
+  111  [melanie@li1292-23 myapp]$ npm init
+  112  -bash: npm: command not found
+  113  [melanie@li1292-23 myapp]$ init
+  114  init: required argument missing.
+  115  [melanie@li1292-23 myapp]$ npm install express --save
+  116  -bash: npm: command not foundl1.0.0:amd64 (1.0.1f-1ubuntu2.21) ...
+  117  root@LAPTOP-FT5R6KHT:~/myapp# ssh -x -l melanie 45.79.193.23
+  118  melanie@45.79.193.23's password:
+  119  Last login: Tue Jan 10 08:47:04 2017 from 75.188.20.127
+  120  [melanie@li1292-23 ~]$ mkdir myapp
+  121  mkdir: cannot create directory myapp: File exists
+  122  [melanie@li1292-23 ~]$ cd myapp
+  123  [melanie@li1292-23 myapp]$ npm init
+  124  -bash: npm: command not found
+  125  [melanie@li1292-23 myapp]$ npm init
+  126  -bash: npm: command not found
+  127  [melanie@li1292-23 myapp]$ init
+  128  init: required argument missing.
+  129  [melanie@li1292-23 myapp]$ npm install express --save
+  130  -bash: npm: command not foundl1.0.0:amd64 (1.0.1f-1ubuntu2.21) ...
+  131  root@LAPTOP-FT5R6KHT:~/myapp# ssh -x -l melanie 45.79.193.23
+  132  melanie@45.79.193.23's password:
+  133  Last login: Tue Jan 10 08:47:04 2017 from 75.188.20.127
+  134  [melanie@li1292-23 ~]$ mkdir myapp
+  135  mkdir: cannot create directory myapp: File exists
+  136  [melanie@li1292-23 ~]$ cd myapp
+  137  [melanie@li1292-23 myapp]$ npm init
+  138  -bash: npm: command not found
+  139  [melanie@li1292-23 myapp]$ npm init
+  140  -bash: npm: command not found
+  141  [melanie@li1292-23 myapp]$ init
+  142  init: required argument missing.
+  143  [melanie@li1292-23 myapp]$ npm install express --save
+  144  -bash: npm: command not found
+  145  ssh -x -l melanie 45.79.193.23
+  146  l1.0.0:amd64 (1.0.1f-1ubuntu2.21) ...
+  147  root@LAPTOP-FT5R6KHT:~/myapp# ssh -x -l melanie 45.79.193.23
+  148  melanie@45.79.193.23's password:
+  149  Last login: Tue Jan 10 08:47:04 2017 from 75.188.20.127
+  150  [melanie@li1292-23 ~]$ mkdir myapp
+  151  mkdir: cannot create directory myapp: File exists
+  152  [melanie@li1292-23 ~]$ cd myapp
+  153  [melanie@li1292-23 myapp]$ npm init
+  154  -bash: npm: command not found
+  155  [melanie@li1292-23 myapp]$ npm init
+  156  -bash: npm: command not found
+  157  [melanie@li1292-23 myapp]$ init
+  158  init: required argument missing.
+  159  [melanie@li1292-23 myapp]$ npm install express --save
+  160  -bash: npm: command not found
+  161  npm init
+  162  yes
+  163  cd myapp
+  164  npm init
+  165  entry point: (inex.js)
+  166  npm install express --save
+  167  mkdir myapp
+  168  cd myapp
+  169  npm init
+  170  yes
+  171  cd myapp
+  172  touch myfile.txt
+  173  var express = require('express')
+  174  nano
+  175  node app.js
+  176  node node app.js
+  177  nano
+  178  node app.js
+  179  screen
+  180  reset
+  181  node app.js
+  182  nano -w app.js 
+  183  node app.js 
+  184  cp app.js app-melanie1.js
+  185  nano -w app.js 
+  186  node app.js 
+  187  reset
+  188  cp app.js app-melanie2.js
+  189  ls
+  190  nano -w app.js
+  191  nano -w app.js 
+  192  reset
+  193  nano -w app.js 
+  194  app.js /melanie
+  195  history
+  196  cp app.js app-melanie3.js
+  197  nano -w app.js 
+  198  ls
+  199  cd ..
+  200  ls
+  201  mkdir github
+  202  cd github
+  203  git
+  204  git clone https://github.com/Melsgoat/hello-world.git
+  205  ls
+  206  cd hello-world
+  207  ls
+  208  cp -a ../../myapp .
+  209  ls
+  210  git add myapp
+  211  git commit
+  212  git config --global user.email "melswan99@gmail.com"
+  213  git config --global user.name "Melanie"
+  214  git commit -m "intitial commit"
+  215  git push origin
+  216  git diff
+  217  git pull
+  218  ls
+  219  history
+  220  history > express-git-commands.txt
